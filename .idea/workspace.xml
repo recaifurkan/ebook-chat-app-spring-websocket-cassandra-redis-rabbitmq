@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5705430d-2ecf-4527-a1e1-b1e9ca641ff8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ebook-chat/src/main/java/br/com/jorgeacetozi/ebookChat/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebook-chat/src/main/java/br/com/jorgeacetozi/ebookChat/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebook-chat/src/main/java/br/com/jorgeacetozi/ebookChat/chatroom/domain/model/InstantMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebook-chat/src/main/java/br/com/jorgeacetozi/ebookChat/chatroom/domain/model/InstantMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebook-chat/src/main/java/br/com/jorgeacetozi/ebookChat/chatroom/domain/service/RedisChatRoomService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebook-chat/src/main/java/br/com/jorgeacetozi/ebookChat/chatroom/domain/service/RedisChatRoomService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebook-chat/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ebook-chat/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebook-chat/src/main/resources/templates/chatroom.html" beforeDir="false" afterPath="$PROJECT_DIR$/ebook-chat/src/main/resources/templates/chatroom.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1i0xoTm2BM5tYhec8TN4cfO4ZKE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5705430d-2ecf-4527-a1e1-b1e9ca641ff8" name="Default Changelist" comment="" />
+      <created>1601058492591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601058492591</updated>
+    </task>
+    <servers />
+  </component>
+</project>
